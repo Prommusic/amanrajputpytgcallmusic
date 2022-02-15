@@ -1,4 +1,4 @@
-# amanrajputpytgcallmusic
+# officialkillerpytgmusicbot
 this is an op music pyrogram music bot..... this bot user music bot can play music   without being admin......
 # TG-MusicPlayer
 A Telegram Userbot to play Audio and Video songs / files in Telegram Voice Chats.
@@ -33,7 +33,7 @@ sudo apt-get install git ffmpeg -y
 
 3) Cloning the Repo
 ```bash
-https://github.com/amanrajput2001/amanrajputpytgcallmusic
+https://github.com/officialkiller2007/officialkillerpytgmusicbot
 ```
 
 4) Rename `example.env` to `.env` and Fill in the Environment Variables
@@ -64,5 +64,5 @@ python3 main.py
 
 
 ## Credits ✨
-- [null] for [Pyrogram](https://github.com/amanrajput2001/amanrajputpytgcallmusic)https://github.com/amanrajput2001/amanrajputpytgcallmusic
-- [null] for [PyTgCalls](https://github.com/amanrajput2001/amanrajputpytgcallmusic)
+- [null] for [Pyrogram](https://github.com/officialkiller2007/officialkillerpytgmusicbot)https://github.com/officialkiller2007/officialkillerpytgmusicbot
+- [null] for [PyTgCalls](https://github.com/officialkiller2007/officialkillerpytgmusicbot)
